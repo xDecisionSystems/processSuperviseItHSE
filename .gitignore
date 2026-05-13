@@ -1,0 +1,11 @@
+.env
+*.env
+.venv/
+
+# Ignore contents of env folder but keep placeholder
+env/*
+!env/.gitkeep
+
+# Ignore contents of participants folder but keep placeholder
+participants/*
+!participants/.gitkeep
